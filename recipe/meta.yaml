@@ -24,6 +24,7 @@ requirements:
     - python >=3.8
     - csp
     - requests
+    - tenacity
 
 test:
   requires:
