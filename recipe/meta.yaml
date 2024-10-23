@@ -1,5 +1,5 @@
 {% set name = "csp-adapter-symphony" %}
-{% set version = "0.1.2" %}
+{% set version = "0.2.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/c/csp-adapter-symphony/{{ name.replace('-', '_') }}-{{ version }}.tar.gz
-  sha256: 1433f48453feeddfe502346cd9193dec1c8b3f7f32be4673f2936da76ff69d77
+  sha256: a75dd580306810f4dadb73cf359fad5eb75c9a6657bf7f3c5a8bdec53b93f2b6
 
 build:
   number: 0
