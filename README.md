@@ -148,5 +148,6 @@ Feedstock Maintainers
 =====================
 
 * [@neejweej](https://github.com/neejweej/)
+* [@ptomecek](https://github.com/ptomecek/)
 * [@timkpaine](https://github.com/timkpaine/)
 
